@@ -1,1 +1,1 @@
-FROM node:14.0.0
+FROM quay.io/gefyra/cargo:0.6.2
